@@ -20,17 +20,17 @@ This GitHub account is where I share **personal projects**, experiments, and ide
 
 ### Personal Projects
 
-#### 📝 [Notes-master](https://github.com/DreHubOff/notes-master)
+#### [Notes-master](https://github.com/DreHubOff/notes-master)
 A simple and clean note-taking app built with **Jetpack Compose**, focused on UI responsiveness and state management. Great for learning and practicing Compose patterns.
 
-#### 🛒 [Purchase-pal](https://github.com/DreHubOff/Purchase-pal)
+#### [Purchase-pal](https://github.com/DreHubOff/Purchase-pal)
 A smart shopping list app with a clean UI and smooth UX — built to test **state handling**, local data persistence, and modular Compose architecture.
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/andres-aleksandrovych-2425811b3)
-- 📧 andrey.com.dr2000@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/andres-aleksandrovych-2425811b3)
+-  andrey.com.dr2000@gmail.com
 
 Thanks for stopping by!
