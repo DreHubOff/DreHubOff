@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Andrey
+### 👋 Hi there, I'm Andres
 
 I'm a passionate **Android Developer** with 5+ years of professional experience in building high-quality, user-focused mobile applications using **Kotlin**, **Jetpack Compose**, and modern Android architecture.
 
