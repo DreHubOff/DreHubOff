@@ -26,6 +26,12 @@ A simple and clean note-taking app built with **Jetpack Compose**, focused on UI
 #### [Purchase-pal](https://github.com/DreHubOff/Purchase-pal)
 A smart shopping list app with a clean UI and smooth UX — built to test **state handling**, local data persistence, and modular Compose architecture.
 
+#### 🎙[CleanSpeech](https://github.com/DreHubOff/clean-speech)
+A Kotlin library for real-time audio noise suppression using ML and DSP techniques (powered by [SpeexDSP](https://github.com/xiph/speexdsp)).
+
+- ML-based and DSP-based audio cleanup
+- Real-time noise reduction, AGC, and VAD
+
 ---
 
 ### Let’s Connect
